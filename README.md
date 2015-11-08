@@ -5,5 +5,5 @@ These are the resources for the Davis Computer Science Club's iOS Development wo
 
 - Week 1 : An introduction to Swift programming, taught by Eddie Kaiger
 - Week 2 : Making our first iOS Application, a Tip Calculator, taught by Alexander Parella
-- Week 3 : ... 
+- Week 3 : Learning how to make more complicated apps with Collection Views, taught by Christy Franks
 - Week 4 : ...
